@@ -1,13 +1,12 @@
-### Hi there 👋
-
-Iam Ibrahim from Egypt. Iam front-end developer. I enjoy learning languages and frameworks like React and Javascript
-
+<h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
+
+- 📫 How to reach me **ebrahemnader321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/brahim33996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brahim33996" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ibrahim nader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim nader" height="30" width="40" /></a>
+<a href="https://twitter.com/ibrahim33996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahim33996" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibrahim-nader-3a65351b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-nader-3a65351b6" height="30" width="40" /></a>
 <a href="https://instagram.com/ebrahem3932" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebrahem3932" height="30" width="40" /></a>
 </p>
 
