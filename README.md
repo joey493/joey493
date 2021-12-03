@@ -2,17 +2,6 @@
 <h3 align="center">A passionate frontend developer</h3>
 <p align="center">Hi, I'm Ibrahim a Front-End Web Development from Egypt, And I really enjoy dealing With Programming languages, Frameworks, And Modern Web Technologies, And I trained a lot by building projects to increase my experience. I'm a fast learner and always love to develop myself</p>
 
-### Skills: 
-    - HTML
-    - CSS
-        - SASS
-        - BOOTSTRAP
-    - JS
-        - REACT
-            - Router
-        - REDUX
-    - GIT
-
 - 📫 How to reach me **ebrahemnader321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
