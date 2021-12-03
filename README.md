@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<p>Hi, I'm Ibrahim a Front-End Web Development from Egypt, And I really enjoy dealing With Programming languages, Frameworks, And Modern Web Technologies, And I trained a lot by building projects to increase my experience. I'm a fast learner and always love to develop myself</p>
+<p align="center">Hi, I'm Ibrahim a Front-End Web Development from Egypt, And I really enjoy dealing With Programming languages, Frameworks, And Modern Web Technologies, And I trained a lot by building projects to increase my experience. I'm a fast learner and always love to develop myself</p>
 
-Skills: 
+# Skills: 
     - HTML
     - CSS
         - SASS
